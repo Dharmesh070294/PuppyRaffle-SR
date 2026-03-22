@@ -1,3 +1,6 @@
+# PuppyRaffle
+Audit of a raffle-based smart contract analyzing randomness, fund handling, and fairness. Highlights vulnerabilities in winner selection, potential manipulation, and issues in payout logic.
+
 # PuppyRaffle — Manual & Static Analysis Portfolio Project
 
 ## Overview
